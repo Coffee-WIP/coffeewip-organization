@@ -1,4 +1,9 @@
 # Coffee Wip
+## Infraestructura 
+- Para la creación de la web se ha decidido optar por NextJS como framework: [Issue3](https://github.com/Coffee-WIP/coffeewip-organization/issues/3)
+- Se ha decidido usar un sistema multi-repo frente a un sistema monorepo para backend y frontend: [Issue2](https://github.com/Coffee-WIP/coffeewip-organization/issues/2)
+
+
 
 ## Contributors
 
