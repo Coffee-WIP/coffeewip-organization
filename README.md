@@ -27,4 +27,5 @@
  [<img width="50px" height="50px" src="https://avatars2.githubusercontent.com/u/25794789?s=460&v=4">](https://github.com/jucastil)
  [<img width="50px" height="50px" src="https://avatars2.githubusercontent.com/u/9607743?s=460&u=b1e9b3a62a6b0885af53a018ee5c74b29a2c11de&v=4">](https://github.com/Anexon)
 ### Infraestructura (Cloud)
+ [<img width="50px" height="50px" src="https://avatars2.githubusercontent.com/u/2675392?s=400&u=dee9a41a0128886e9aa6331585dcd26039bf05ec&v=4">](https://github.com/vicenteherrera)
 ### Testing QA
