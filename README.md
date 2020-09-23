@@ -1,8 +1,14 @@
+<img src="./assets/banner-coffeewip.jpg">
+
 # CoffeeWIP Working Group
 
-## Current Contributors
+# 🔖 Description
 
-### Gestión PM/PO
+TODO
+
+## 🐜 Current Contributors
+
+### Management PM/PO
  [<img width="50px" height="50px" src="https://avatars0.githubusercontent.com/u/369639?s=460&u=af059462cbfdab9ddb59943438ddd7b3a9dca0fc&v=4">](https://github.com/pablortsal)
  
 ### Design UX/UI
