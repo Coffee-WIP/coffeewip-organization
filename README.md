@@ -2,7 +2,7 @@
 
 # CoffeeWIP Working Group
 
-# 🔖 Description
+## 🔖 Description
 
 TODO
 
