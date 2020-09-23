@@ -6,6 +6,14 @@
 
 TODO
 
+## 📂 Code Scaffolding
+
+```any
+/
+├── assets 🌈                   # Images Sources.
+└── ...
+```
+
 ## 🐜 Current Contributors
 
 ### Management PM/PO
@@ -31,3 +39,12 @@ TODO
 
 ### Infrastructure (Cloud)
   [<img width="50px" height="50px" src="https://avatars2.githubusercontent.com/u/2675392?s=400&u=dee9a41a0128886e9aa6331585dcd26039bf05ec&v=4">](https://github.com/vicenteherrera)
+
+## Happy Code
+
+Created with JavaScript, lot of ❤️ and a few ☕️
+
+## This README.md file has been written keeping in mind
+
+[GitHub Markdown](https://guides.github.com/features/mastering-markdown/) \
+[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
