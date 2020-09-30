@@ -1,16 +1,17 @@
 <img src="./assets/banner-coffeewip.jpg">
 
-# CoffeeWIP Working Group
+# CoffeeWIP Organization
 
 ## 🔖 Description
 
-TODO
+This repository contains general information of the organization and files for press kits.
 
 ## 📂 Code Scaffolding
 
 ```any
 /
 ├── assets 🌈                   # Images Sources.
+├── press-kit                   # Press kit files.
 └── ...
 ```
 
